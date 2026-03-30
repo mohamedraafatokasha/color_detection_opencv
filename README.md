@@ -70,12 +70,6 @@ cmake -S . -B build
 cmake --build build
 ```
 
-Run (single-config generators such as Ninja/MinGW Makefiles):
-
-```powershell
-.\build\app.exe
-```
-
 
 ## Processing Pipeline
 
